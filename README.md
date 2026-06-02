@@ -1,9 +1,10 @@
 # 🌾 Smart Uzhavan – Agricultural Analytics & Marketplace Portal
 
-Smart Uzhavan is a bilingual (Tamil & English) agricultural analytics and marketplace platform developed to address post-harvest challenges in agriculture through Data Visualization and Machine Learning.The platform connects Farmers, Warehouse Owners, Transporters, and Buyers in a single digital ecosystem, enabling better decision-making through interactive dashboards, real-time insights, predictive analytics, and marketplace services.
----
 
 <img width="1536" height="1024" alt="ChatGPT Image Jun 2, 2026, 11_24_00 PM" src="https://github.com/user-attachments/assets/8d3928a6-a454-4d54-a210-1e575f707176" />
+
+Smart Uzhavan is a bilingual (Tamil & English) agricultural analytics and marketplace platform developed to address post-harvest challenges in agriculture through Data Visualization and Machine Learning.The platform connects Farmers, Warehouse Owners, Transporters, and Buyers in a single digital ecosystem, enabling better decision-making through interactive dashboards, real-time insights, predictive analytics, and marketplace services.
+---
 
 ## 📌 Project Overview
 
